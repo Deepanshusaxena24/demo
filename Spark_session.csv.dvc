@@ -1,0 +1,5 @@
+outs:
+- md5: faf282a1ffebe265e5e88eb51ec68b44
+  size: 1188787
+  hash: md5
+  path: Spark_session.csv
